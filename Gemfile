@@ -50,3 +50,4 @@ group :coverage do
 end
 
 gem 'graphql'
+gem 'graphiql-rails'
